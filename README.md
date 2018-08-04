@@ -7,7 +7,7 @@
 
 ## Training
 * __Last trained on__: 2017-02-05
-* __Training data script__: experiments/training_data_sets/pcc1_v3_training_data_2018_02_01.ipynb
+* __Training data script__: experiments/training_data_scripts/pcc1_v3_training_data_2018_02_01.ipynb
 * __Training data__: 
 * project_id = 'my_project'
 * gs://data-science/product_categorizer/training/pcc1/v3/2018_02_06/data_labeled.csv
